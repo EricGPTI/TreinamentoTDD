@@ -2,5 +2,5 @@ from django.shortcuts import render
 
 # Create your views here.
 
-home_page = None
-test
+def home_page():
+    pass
